@@ -13,6 +13,6 @@
   "settings": {
     "terminal.integrated.shell.linux": "/bin/zsh"
   },
-  "postCreateCommand": "",
+  "postCreateCommand": "yarn",
   "remoteUser": "node"
 }
